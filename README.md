@@ -1,3 +1,4 @@
-# haris
-this is my 1st demo repository
+# Haris
+This is my First demo repository.
+<br>
 Author -> Haris
